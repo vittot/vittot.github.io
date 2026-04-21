@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vittot.github.io/al-folio/sitemap.xml
+Sitemap: https://vittot.github.io/sitemap.xml
