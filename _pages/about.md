@@ -5,8 +5,8 @@ permalink: /
 subtitle: Postdoctoral Researcher @ MOX - Modelling and Scientific Computing Lab, Department of Mathematics, Politecnico di Milano
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: VT_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 219, Building 14</p>
