@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -73,36 +73,71 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-applied-statistics-group-projects",
-          title: 'Applied Statistics - Group Projects',
-          description: "Tutor supervising group projects for the course Applied Statistics, for MSc students in Mathematical Engineering and Computer Science and Engineering.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/applied-statistics-projects/";
             },},{id: "teachings-applied-statistics",
           title: 'Applied Statistics',
           description: "Teaching Assistant (Esercitatore) for the course Applied Statistics (5 ECTS, 20h/semester), for first-year MSc students in High Performance Computing Engineering, Computer Science and Engineering, and Physics Engineering.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/applied-statistics/";
+              window.location.href = "/teachings/applied-statistics-2025/";
+            },},{id: "teachings-applied-statistics",
+          title: 'Applied Statistics',
+          description: "Teaching Assistant (Esercitatore) for the course Applied Statistics (5 ECTS, 20h/semester), for first-year MSc students in High Performance Computing Engineering, Computer Science and Engineering, and Physics Engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/applied-statistics-2026/";
+            },},{id: "teachings-applied-statistics-group-projects",
+          title: 'Applied Statistics - Group Projects',
+          description: "Tutor supervising group projects for the course Applied Statistics, for MSc students in Mathematical Engineering and Computer Science and Engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/applied-statistics-projects-2024/";
+            },},{id: "teachings-applied-statistics-group-projects",
+          title: 'Applied Statistics - Group Projects',
+          description: "Tutor supervising group projects for the course Applied Statistics, for MSc students in Mathematical Engineering and Computer Science and Engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/applied-statistics-projects-2025/";
+            },},{id: "teachings-applied-statistics-group-projects",
+          title: 'Applied Statistics - Group Projects',
+          description: "Tutor supervising group projects for the course Applied Statistics, for MSc students in Mathematical Engineering and Computer Science and Engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/applied-statistics-projects-2026/";
             },},{id: "teachings-introductory-computer-science-courses",
           title: 'Introductory Computer Science Courses',
           description: "Tutor for multiple Computer Science courses for bachelor&#39;s students in engineering (Informatica A, Informatica B, Fondamenti di Informatica, Basi di Dati, Progetto di Algoritmi e Strutture Dati), covering basic and advanced C programming, SQL and relational database design, and basic MATLAB programming.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/intro-cs-tutoring/";
-            },},{id: "teachings-statistica-e-calcolo-delle-probabilità",
-          title: 'Statistica e Calcolo delle Probabilità',
-          description: "Tutor for Statistica e Calcolo delle Probabilità (Statistics and Probability Calculus) (20h/semester), open to all bachelor&#39;s students in engineering.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/statistica-calcolo-probabilita/";
             },},{id: "teachings-statistica",
           title: 'Statistica',
           description: "Teaching Assistant (Esercitatore) for the course Statistica (Statistics) (5 ECTS, 24h/semester), for first-year BSc students in Mathematical Engineering.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/statistica/";
+              window.location.href = "/teachings/statistica-2022/";
+            },},{id: "teachings-statistica",
+          title: 'Statistica',
+          description: "Teaching Assistant (Esercitatore) for the course Statistica (Statistics) (5 ECTS, 24h/semester), for first-year BSc students in Mathematical Engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistica-2023/";
+            },},{id: "teachings-statistica-e-calcolo-delle-probabilità",
+          title: 'Statistica e Calcolo delle Probabilità',
+          description: "Tutor for Statistica e Calcolo delle Probabilità (Statistics and Probability Calculus) (20h/semester), open to all bachelor&#39;s students in engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistica-calcolo-probabilita-2022/";
+            },},{id: "teachings-statistica-e-calcolo-delle-probabilità",
+          title: 'Statistica e Calcolo delle Probabilità',
+          description: "Tutor for Statistica e Calcolo delle Probabilità (Statistics and Probability Calculus) (20h/semester), open to all bachelor&#39;s students in engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistica-calcolo-probabilita-2024/";
             },},{id: "teachings-statistical-models-for-healthcare-data",
           title: 'Statistical Models for Healthcare Data',
           description: "Teaching Assistant (Esercitatore) for the course Statistical Models for Healthcare Data (6 ECTS, 24h/semester), for first-year MSc students in Health Informatics.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/statistical-models-healthcare-data/";
+              window.location.href = "/teachings/statistical-models-healthcare-data-2024/";
+            },},{id: "teachings-statistical-models-for-healthcare-data",
+          title: 'Statistical Models for Healthcare Data',
+          description: "Teaching Assistant (Esercitatore) for the course Statistical Models for Healthcare Data (6 ECTS, 24h/semester), for first-year MSc students in Health Informatics.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistical-models-healthcare-data-2025/";
+            },},{id: "teachings-statistical-models-for-healthcare-data",
+          title: 'Statistical Models for Healthcare Data',
+          description: "Teaching Assistant (Esercitatore) for the course Statistical Models for Healthcare Data (6 ECTS, 24h/semester), for first-year MSc students in Health Informatics.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistical-models-healthcare-data-2026/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
