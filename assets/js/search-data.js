@@ -73,16 +73,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-applied-statistics-group-projects",
+          title: 'Applied Statistics - Group Projects',
+          description: "Tutor supervising group projects for the course Applied Statistics, for MSc students in Mathematical Engineering and Computer Science and Engineering.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/applied-statistics-projects/";
+            },},{id: "teachings-applied-statistics",
+          title: 'Applied Statistics',
+          description: "Teaching Assistant (Esercitatore) for the course Applied Statistics (5 ECTS, 20h/semester), for first-year MSc students in High Performance Computing Engineering, Computer Science and Engineering, and Physics Engineering.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/applied-statistics/";
+            },},{id: "teachings-introductory-computer-science-courses",
+          title: 'Introductory Computer Science Courses',
+          description: "Tutor for multiple Computer Science courses for bachelor&#39;s students in engineering (Informatica A, Informatica B, Fondamenti di Informatica, Basi di Dati, Progetto di Algoritmi e Strutture Dati), covering basic and advanced C programming, SQL and relational database design, and basic MATLAB programming.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/intro-cs-tutoring/";
+            },},{id: "teachings-statistica-e-calcolo-delle-probabilità",
+          title: 'Statistica e Calcolo delle Probabilità',
+          description: "Tutor for Statistica e Calcolo delle Probabilità (Statistics and Probability Calculus) (20h/semester), open to all bachelor&#39;s students in engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistica-calcolo-probabilita/";
+            },},{id: "teachings-statistica",
+          title: 'Statistica',
+          description: "Teaching Assistant (Esercitatore) for the course Statistica (Statistics) (5 ECTS, 24h/semester), for first-year BSc students in Mathematical Engineering.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistica/";
+            },},{id: "teachings-statistical-models-for-healthcare-data",
+          title: 'Statistical Models for Healthcare Data',
+          description: "Teaching Assistant (Esercitatore) for the course Statistical Models for Healthcare Data (6 ECTS, 24h/semester), for first-year MSc students in Health Informatics.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/statistical-models-healthcare-data/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
