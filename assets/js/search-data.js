@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-thesis",
+          title: "thesis",
+          description: "Master&#39;s theses co-supervised at Politecnico di Milano.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/thesis/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
