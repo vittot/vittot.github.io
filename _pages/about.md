@@ -27,6 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Researcher in the Health Analytics group at the MOX Laboratory, Department of Mathematics, Politecnico di Milano, working with prof. Francesca Ieva. My research applies statistical and machine learning methods — particularly weakly-supervised and unsupervised Natural Language Processing — to clinical text in under-resourced languages such as Italian and Dutch, often combined with structured healthcare data and in collaboration with public health authorities and hospitals.
+I am a Postdoctoral Researcher in the Health Analytics group led by prof. Francesca Ieva at the MOX Laboratory, Department of Mathematics, Politecnico di Milano. My research applies statistical and machine learning methods to clinical text. In particular, I focus on weakly-supervised and unsupervised Natural Language Processing methods in under-resourced languages such as Italian and Dutch, often combined with structured healthcare data. I have worked on multiple projects in collaboration with hospitals and public health authorities.
 
-I completed my PhD in Data Analytics and Decision Sciences (cum laude) at Politecnico di Milano in 2025, with visiting research periods at Amsterdam UMC and Fondazione Human Technopole.
+I completed my PhD in Data Analytics and Decision Sciences (cum laude / with honors) at Politecnico di Milano in 2025, and I got my Master's in Computer Science and Engineering from Politecnico di Milano in 2021 (cum laude / with honors). Between 2023 and 2024 I spent a visiting period at Amsterdam UMC and I am currently also a visiting researcher at the Health Data Science Centre of Human Technopole. 
+Beside my research activties, I have been teaching assistant for multiple courses at Politecnico di Milano and I have been co-supervisor of multiple master's theses.
