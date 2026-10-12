@@ -2,12 +2,16 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-#email: you@example.com # your email address
+#email: you@example.com # your email address (the built-in email social is NOT obfuscated by jekyll-socials; see custom_email below instead)
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: dxtJGTwAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+custom_email: # percent-encoded mailto link (vittorio.torri@polimi.it) to deter the simplest email-harvesting bots
+  logo: fa-solid fa-envelope
+  title: Email
+  url: mailto:%76%69%74%74%6F%72%69%6F.%74%6F%72%72%69@%70%6F%6C%69%6D%69.%69%74
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: fab fa-linkedin
   title: Linkedin
