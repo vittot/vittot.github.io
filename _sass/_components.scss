@@ -90,6 +90,16 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+@media (max-width: 575px) {
+  .profile,
+  .profile.float-left,
+  .profile.float-right {
+    float: none;
+    width: 50%;
+    margin: 0 auto 1rem;
+  }
+}
+
 // CV
 
 .cv {
