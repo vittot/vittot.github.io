@@ -94,7 +94,9 @@ ul.task-list input[type="checkbox"] {
   .profile,
   .profile.float-left,
   .profile.float-right {
-    float: none;
+    // Bootstrap's .float-left/.float-right utilities set float with
+    // !important, so this needs !important too to actually win.
+    float: none !important;
     width: 50%;
     margin: 0 auto 1rem;
   }
